@@ -11,7 +11,7 @@ const Upper = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/aryan-prog", "_blank")
+            window.open("https://github.com/aryan-prog/ai_summariser", "_blank")
           }
           className='black_btn'
         >
