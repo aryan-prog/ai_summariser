@@ -13,6 +13,8 @@ This template provides a minimal setup to get React working in Vite with HMR (Ho
 
 AI Summariser is an open-source article summarization tool that simplifies your reading experience. It transforms lengthy articles into clear and concise summaries. Just paste the article link into the search bar, and it will generate a summary for that article.
 
+This Website is **Fully Responsive** on all screen sizes
+
 **Key Features:**
 
 - Modern User Interface
@@ -21,6 +23,7 @@ AI Summariser is an open-source article summarization tool that simplifies your 
 - Integration of Redux Toolkit Query
 - Copy to Clipboard
 - Browser History Storage
+- Fully Responsive 
 
 ## Tech Stack
 
