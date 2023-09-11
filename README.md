@@ -13,6 +13,8 @@ This application simplifies your reading with Summarize, an open source article 
 
 It has Modern user interface
 <!-- The Web Application will save history, using local storage,handle form events and catch errors,implement copy to clipboard, -->
+
+The Web Application is fully responsive . Made using Tailwind CSS
 ## Features
 
 1. Connection to Open AI's GPT model
