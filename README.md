@@ -48,7 +48,7 @@ To get started with AI Summariser, follow these steps:
 1. Paste the URL of the article you want to summarize into the search bar.
 2. Click the "Summarize" button.
 3. The application will generate a summary of the article for you.
-4. You can use the "Copy to Clipboard" feature to easily save or share the summary.
+4. You can use the "Copy to Clipboard" feature to save or share the summary easily.
 
 ## Live Demo
 
