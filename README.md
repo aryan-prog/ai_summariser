@@ -27,8 +27,9 @@ This Website is **Fully Responsive** on all screen sizes
 
 ## Tech Stack
 
-- React
+- ReactJS
 - Vite
+- Javascript
 - Tailwind CSS
 - Redux Toolkit Query (RTK)
 - OpenAI's API through Rapid API
