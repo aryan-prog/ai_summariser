@@ -27,6 +27,10 @@ const Upper = () => {
         Simplify your reading with Summize, an open-source article summarizer
         that transforms lengthy articles into clear and concise summaries
       </h2>
+      <h3 className="desc">
+          Just Paste the article link in the box below. 
+          Press Enter and see the magic. It's that easy
+      </h3>
     </header>
   );
 };
